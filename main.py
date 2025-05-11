@@ -43,18 +43,17 @@ def parsing_json(html):
 # Principal
 def main():
 
-    # Url para usar como requisicao
-    URL = f"https://crt.sh/?q={domain}&output=json"
-
     # Conjunto
     conjunto = set()
     domain = input("Dominio (example.com): ")
+
+    # Url para usar como requisicao
+    URL = f"https://crt.sh/?q={domain}&output=json"
 
     # Metodo
     html = requisicao(URL)
 
     if html is not None:
-
         json = parsing_json(html)
 
         # Analisando dicionario
