@@ -1,4 +1,4 @@
-# SubDomain-CRT 🕵️‍♂️
+# CRT-Hunter 🕵️‍♂️
 
 Ferramenta simples para enumerar subdomínios de um domínio usando a **API pública do [crt.sh](https://crt.sh)**.  
 Ideal para **fins educacionais** e testes de segurança autorizados.
