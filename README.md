@@ -7,8 +7,9 @@ Ideal para **fins educacionais** e testes de segurança autorizados.
 
 ## ⚡ Aviso de Uso
 
-**⚠️ Uso exclusivo para fins educacionais e testes autorizados.**  
-Não utilize esta ferramenta para exploração não autorizada. O autor não se responsabiliza por mau uso.
+## ⚠️ AVISO IMPORTANTE: Propósito Educacional
+
+**Este software foi desenvolvido exclusivamente para fins de estudo, laboratório (lab) e revisão acadêmica em um ambiente seguro e controlado. O uso desta ferramenta para atividades ilícitas, invasão de sistemas ou qualquer propósito malicioso é estritamente proibido e de total responsabilidade do usuário.**
 
 ---
 
